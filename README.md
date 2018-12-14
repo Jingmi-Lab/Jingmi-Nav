@@ -1,4 +1,4 @@
-## 京汨LAB-个性化导航/预览地址
+## 京汨Lab-个性化导航/预览地址
 (效果预览)[https://jingmi-lab.github.io/Jingmi-Nav/index.html]
 
 ##
